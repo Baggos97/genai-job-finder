@@ -1,6 +1,6 @@
 # GenAI Job Finder
 
-A full-stack job-finder platform with a Generative AI layer, built during the **GenAI for Developers #25.11** course at Ctrl+Space Labs.
+A full-stack AI-powered job discovery platform that enables semantic search, RAG-based Q&A, and agentic job applications using LLMs, vector embeddings, and reranking..
 
 ## Tech Stack
 
